@@ -5,7 +5,8 @@ body {
   margin: 0 auto;  
   padding: 2rem;  
   line-height: 1.6;  
-  background: #f5f9ff; /* Light gray (clean & professional) */  
+  background: #f5f9ff !important; /* Light gray (clean & professional) */  
+  color: #333 !important;
   /* Optional: Subtle gradient for modern touch */  
   background: linear-gradient(to bottom, #ffffff 0%, #f8f9fa 100%);  
   min-height: 100vh; /* Ensures gradient covers full page */  
